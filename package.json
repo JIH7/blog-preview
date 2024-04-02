@@ -1,0 +1,11 @@
+{
+  "name": "blog-preview",
+  "version": "1.0.0",
+  "description": "![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch ./:./"
+  },
+  "author": "Jeremy Helsel",
+  "license": "ISC"
+}
